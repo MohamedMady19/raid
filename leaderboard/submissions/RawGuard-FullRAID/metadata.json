@@ -1,6 +1,6 @@
 {
   "date_released": "2026-09-24",
-  "detector_name": "DeBERTa-ConPara-FullRAID",
+  "detector_name": "RawGuard-FullRAID",
   "website": "",
   "paper_link": "",
   "huggingface_link": "",
