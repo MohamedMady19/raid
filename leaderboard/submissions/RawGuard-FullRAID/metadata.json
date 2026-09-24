@@ -1,9 +1,9 @@
 {
-  "date_released": "2026-09-01",
-  "detector_name": "RawGuard-FullRAID",
+  "date_released": "2026-09-24",
+  "detector_name": "DeBERTa-ConPara-FullRAID",
   "website": "",
   "paper_link": "",
   "huggingface_link": "",
   "github_link": "",
-  "contact_info": "Email Address: mohamed.mady@tum.de"
+  "contact_info": "Email Address: mohamed.mady@oth-regensburg.de"
 }
